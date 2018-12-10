@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">X-Trap</string>
+    <string name="members">Members</string>
+    <string name="btnMembers">Members</string>
+    <string name="btnMerchandise">Merchandise</string>
+    <string name="btnMerchToHome">Home</string>
+    <string name="btnMembersToHome">Home</string>
+    <string name="calcButton">Add to cart</string>
+    <string name="txt_info">This is X-Trap The most famous band ever originated from Illinois.
+    The band is formed by three members first is Ore the lead member, second is J1nx and lastly is woody.
+</string>
+    <string-array name="membersArray">
+        <item>Ore</item>
+        <item>J1nx</item>
+        <item>Woody</item>
+    </string-array>
+    <string-array name="merchArray">
+        <item>Shirt</item>
+        <item>Phone Case</item>
+        <item>Wallpaper</item>
+    </string-array>
+    <string-array name="prices_array">
+        <item>$29.99</item>
+        <item>$14.99</item>
+        <item>$2.99</item>
+    </string-array>
+    <string-array name="member_image">
+        <item>@drawable/ore</item>
+        <item>@drawable/j1nx</item>
+        <item>@drawable/woody</item>
+    </string-array>
+    <string-array name="merch_image">
+        <item>@drawable/shirt</item>
+        <item>@drawable/phone_case</item>
+        <item>@drawable/wallpaper</item>
+    </string-array>
+    <string name="txtMembers">Members</string>
+    <string name="txtMerchandise">Merchandise</string>
+    <string name="imgOre">Ore</string>
+    <string name="imgShirt">Shirt</string>
+</resources>
